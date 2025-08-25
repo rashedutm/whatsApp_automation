@@ -1,0 +1,16 @@
+WhatsApp Automation Started at 2025-08-25 18:58:18
+--------------------------------------------------
+
+[1/5] MD Rashedur Rahman -- 60113962526 : failed after maximum retries
+[2/5] Saad Ahmed Pathan -- 601167910331 : successfully sent
+
+--------------------------------------------------
+Automation forcefully stopped at 2025-08-25 18:59:44
+Total contacts: 5
+Successfully sent: 1
+Failed: 1
+Remaining contacts: 3
+--------------------------------------------------
+
+                                    Rashed--SE@UTM
+
