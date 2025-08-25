@@ -45,8 +45,8 @@ pip install pandas selenium pyautogui pyperclip openpyxl keyboard
    - Example format:
      ```
      Name                | Phone
-     John Doe           | 1234567890
-     Jane Smith         | 0987654321
+     John Doe           | +1234567890
+     Jane Smith         | +0987654321
      ```
 
 2. **Configure your message template (`WHATSDRAFT.txt`)**:
