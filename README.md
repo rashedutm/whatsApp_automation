@@ -44,7 +44,7 @@ pip install pandas selenium pyautogui pyperclip openpyxl keyboard
    - Include columns for names and phone numbers
    - Example format:
      ```
-     Name                | Phone
+     Name               | Phone
      John Doe           | +1234567890
      Jane Smith         | +0987654321
      ```
